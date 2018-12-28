@@ -1,2 +1,2 @@
 from git
-add text cxvb
+add text
