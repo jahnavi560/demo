@@ -1,2 +1,2 @@
 hi
-check stash for git
+demo stashing
