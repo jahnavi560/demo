@@ -1,2 +1,2 @@
 hi
-check stash
+check stash for git
